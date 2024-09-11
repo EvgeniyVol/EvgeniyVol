@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at Belgorod State University. I am interested in programming. There are still developments here, but real projects will be coming soon
+
 <!--
 **EvgeniyVol/EvgeniyVol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
